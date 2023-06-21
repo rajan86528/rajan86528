@@ -7,23 +7,28 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajan86528" alt="rajan86528" /></a> </p>
 
 
-- 🔭 I’m currently working on **building creative websites**
+### Analytics Tools I Used
 
-- 🌱 I’m currently learning **Web development**
+* **Data Collection and Storage:** SQL, MySQL and Postgres.
 
-- 👯 I’m looking to collaborate on **Web dev projects**
+* **Data Processing and Analytics:** Python, Jupyter and Spyder.
 
-- 🤝 I’m looking for help with **Android Development**
+* **Development:** Git, Linux and Docker.
 
-- 📝 I sometimes write articles on [https://poemsbyhitesh.blogspot.com/](https://poemsbyhitesh.blogspot.com/)
+* **Data Visualization:** Seaborn and Matplotlib.
 
-- 💬 Ask me about **C++, React and JavaScript**
+* **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series and Neural Network.
 
-- 📫 How to reach me **mewadahitesh00@gmail.com**
+* **Machine Learning Deployment:** Flask and Heroku.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hitu04](https://www.linkedin.com/in/hitu04)
 
-- ⚡ Fun fact **I debug code to create more bugs**
+### Technical Skills
+* **Programming Languages:** C/C++, JavaScript, SQL, Python
+• **Python library:** PySpark, Keras , Python (eg. scikit-learn, numpy, pandas, matplotlib), Data Visualization(eg. Plotly, Matplotlib, seaborn), PyTorch
+• **Technologies/Frameworks/Others:** ETL, Data science pipeline (cleansing, wrangling,visualization, modeling, interpretation), Statistics, Time series, BootStrap, Django, OOPS, TensorFlow, Amazon Web Services (AWS), streamlit, Flask, WebScraping, Jupyter Notebook, APIs, Excel, Git, BLOCKCHAIN
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -32,10 +37,6 @@
 <a href="https://www.linkedin.com/in/rajan-gupta-01371b216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh mewada" height="30" width="40" /></a>
 
 </p>
-
-
-### My Skills: 🚀
-`HTML` `CSS` `Python` `SAAS` `JavaScript` `Github` `Low Code App Development` `Canvas Based Power Apps` `Model Driven Power Apps` `Digital Twins` `BIM Management` `Azure` `Data Analysis` `Data Visualisation`  `R` `Github Apps` `CI` `Blockchain` `Kubernetes` `Data clustering/classification techniques` `DAX` `PowerBI`
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
