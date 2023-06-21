@@ -24,7 +24,9 @@
 
 ### Technical Skills
 * **Programming Languages:** C/C++, JavaScript, SQL, Python<br>
+
 • **Python library:** PySpark, Keras ,Python (eg. scikit-learn, numpy, pandas, matplotlib), Data Visualization(eg. Plotly, Matplotlib, seaborn), PyTorch.<br>
+
 • **Technologies/Frameworks/Others:** ETL, Data science pipeline (cleansing, wrangling,visualization, modeling, interpretation), Statistics, Time series, BootStrap, Django, OOPS, TensorFlow, Amazon Web Services (AWS), streamlit, Flask, WebScraping, Jupyter Notebook, APIs, Excel, Git, BLOCKCHAIN.<br>
 
 
