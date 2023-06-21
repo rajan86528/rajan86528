@@ -25,21 +25,21 @@
 
 
 ### Technical Skills
-* **Programming Languages:** C/C++, JavaScript, SQL, Python<br>
+* **Programming Languages:** C/C++ ,JavaScript ,SQL ,Python <br>
 
-• **Python library:** PySpark, Keras ,Python (eg. scikit-learn, numpy, pandas, matplotlib), Data Visualization(eg. Plotly, Matplotlib, seaborn), PyTorch.<br>
+* **Python library:** PySpark ,Keras ,Python (eg. scikit-learn ,numpy ,pandas ,matplotlib), Data Visualization(eg. Plotly ,Matplotlib ,seaborn) ,PyTorch. <br>
 
-• **Technologies/Frameworks/Others:** ETL, Data science pipeline (cleansing, wrangling,visualization, modeling, interpretation), Statistics, Time series, BootStrap, Django, OOPS, TensorFlow, Amazon Web Services (AWS), streamlit, Flask, WebScraping, Jupyter Notebook, APIs, Excel, Git, BLOCKCHAIN.<br>
+* **Technologies/Frameworks/Others:** ETL ,Data science pipeline (cleansing, wrangling,visualization ,modeling ,interpretation) ,Statistics ,Time series, BootStrap ,Django ,OOPS ,TensorFlow ,Amazon Web Services (AWS) ,streamlit ,Flask ,WebScraping ,Jupyter Notebook ,APIs ,Excel ,Git ,BLOCKCHAIN. <br>
 
 
 ## Data Science Projects
 
 * ### [Heart Disease Prediction (Machine learning)—Python, Flask, LogisticRegression| ]([https://github.com/juniorcl/airbnb-scheduling-forecast](https://github.com/rajan86528/heart-disease-prediction))
 
-• Developed Advanced Machine Learning Model: Created a sophisticated machine learning model to accurately predict the
+* Developed Advanced Machine Learning Model: Created a sophisticated machine learning model to accurately predict the
 likelihood of heart disease based on patient data, showcasing expertise in predictive analytics, healthcare applications,
 and advanced modeling techniques
-• Conducted feature engineering and performed exploratory data analysis to identify key risk factors contributing to heart
+* Conducted feature engineering and performed exploratory data analysis to identify key risk factors contributing to heart
 disease. Through feature importance analysis, successfully identified top predictors and achieved an F1 score of 0.82,
 demonstrating the model’s ability to accurately classify patients’ heart disease status.
 
@@ -49,11 +49,11 @@ demonstrating the model’s ability to accurately classify patients’ heart dis
 
 Here You can See live https://rajan86528-dog-breed-prediction-app-fsl1yp.streamlit.app/
 
-• Dog Breed Classification Web Application: Developed a web application using Flask, allowing users to upload images
+* Dog Breed Classification Web Application: Developed a web application using Flask, allowing users to upload images
 and predict the breed of a dog using a deep learning model trained on TensorFlow 2.3.0 object classification. The model,
 based on transfer learning and Inception v3 as the base model for feature extraction, achieved high training accuracy of
 99% and testing accuracy of 94% on a dataset of 30 famous dog breeds.
-• Convolutional Neural Network (CNN) for Dog Breed Prediction: Utilized Keras to build, train, and test a convolutional
+* Convolutional Neural Network (CNN) for Dog Breed Prediction: Utilized Keras to build, train, and test a convolutional
 neural network, demonstrating proficiency in deep learning techniques. The model employed transfer learning, leveraging
 the Inception v3 architecture, and was trained on approximately 2.5k images of 30 dog breeds. The deployed model, with
 Flask as the backend, provided accurate dog breed predictions based on user-uploaded images.
