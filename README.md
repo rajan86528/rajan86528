@@ -43,6 +43,21 @@ demonstrating the model’s ability to accurately classify patients’ heart dis
 
 
 
+* ### [Dog breed prediction(Deep learning)—Python, ML, Flask, TensorFlow-Hub, Keras, Scikit-learn]([https://github.com/rajan86528/Dog-Breed-Prediction))
+
+Here You can See live https://rajan86528-dog-breed-prediction-app-fsl1yp.streamlit.app/
+
+• Dog Breed Classification Web Application: Developed a web application using Flask, allowing users to upload images
+and predict the breed of a dog using a deep learning model trained on TensorFlow 2.3.0 object classification. The model,
+based on transfer learning and Inception v3 as the base model for feature extraction, achieved high training accuracy of
+99% and testing accuracy of 94% on a dataset of 30 famous dog breeds.
+• Convolutional Neural Network (CNN) for Dog Breed Prediction: Utilized Keras to build, train, and test a convolutional
+neural network, demonstrating proficiency in deep learning techniques. The model employed transfer learning, leveraging
+the Inception v3 architecture, and was trained on approximately 2.5k images of 30 dog breeds. The deployed model, with
+Flask as the backend, provided accurate dog breed predictions based on user-uploaded images.
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 
