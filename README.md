@@ -17,9 +17,9 @@
 
 * **Development:** Git, Linux and Docker.
 
-* **Data Visualization:** Seaborn and Matplotlib.
+* **Data Visualization:** Seaborn, Matplotlib and Tableau.
 
-* **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series and Neural Network.
+* **Machine Learning:** Classification, Regression, Clustering, Decision Trees, Ensemble, LDA, CNN, Naive Bayes, Bagging and Boosting
 
 * **Machine Learning Deployment:** Flask and Heroku.
 
