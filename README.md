@@ -30,6 +30,18 @@
 • **Technologies/Frameworks/Others:** ETL, Data science pipeline (cleansing, wrangling,visualization, modeling, interpretation), Statistics, Time series, BootStrap, Django, OOPS, TensorFlow, Amazon Web Services (AWS), streamlit, Flask, WebScraping, Jupyter Notebook, APIs, Excel, Git, BLOCKCHAIN.<br>
 
 
+## Data Science Projects
+
+* ### [Heart Disease Prediction (Machine learning)—Python, Flask, LogisticRegression| ]([https://github.com/juniorcl/airbnb-scheduling-forecast](https://github.com/rajan86528/heart-disease-prediction))
+
+• Developed Advanced Machine Learning Model: Created a sophisticated machine learning model to accurately predict the
+likelihood of heart disease based on patient data, showcasing expertise in predictive analytics, healthcare applications,
+and advanced modeling techniques
+• Conducted feature engineering and performed exploratory data analysis to identify key risk factors contributing to heart
+disease. Through feature importance analysis, successfully identified top predictors and achieved an F1 score of 0.82,
+demonstrating the model’s ability to accurately classify patients’ heart disease status.
+
+
 
 
 <h3 align="left">Connect with me:</h3>
