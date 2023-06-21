@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Rajan Gupta</h1>
 
-<h3 align="center">I am passionate about Data Science and Analytics. I have a Bachelor’s in Computer Engineering from Texas A&M University and a Bachelor's in Mechanical Engineering from NIT</h3>
+<h3 align="center">I am Data Science Enthusiast who loves open source programs and tools. I have a Bachelor’s in Computer Engineering from University Of Mumbai
+ india. I am using Python for data analysis, data processing and machine learning algorithms focused in business solutions. For more details about my projects and each solution, they are described in the data science some project section.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan86528&label=Profile%20views&color=0e75b6&style=flat" alt="rajan86528" /> </p>
 
